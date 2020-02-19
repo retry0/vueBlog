@@ -16,7 +16,7 @@ if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 module.exports = {
   siteName: 'Lingga Adi Pratama',
   siteDescription: 'By retry0',
-  siteUrl: '',
+  siteUrl: 'https://retry0.netlify.com/',
   plugins: [
     {
       use: '@gridsome/vue-remark',
