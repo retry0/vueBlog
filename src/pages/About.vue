@@ -49,9 +49,18 @@ Though what I learn in programming I decide to take informatic engineering at co
               My professional experiences are diverse and I'm better for it. Here are some of the organizations, roles, and successes I have been a part of.
               <ul class="text-lg sm:text-xl mx-6">
                 <li class="my-6">
+                  <strong>Bank BTPN Syariah<br>
+                    Mobile Developer
+                    </strong>(01/2021 ~ Present)
+                  <ul class="pl-6" style="list-style-type: circle;">
+                    <li>Developing Ecommerce mobile applications ecosystem BTPNS.</li>
+                    <li>Using React Native for mobile applications and Golang for API & Gateway.</li>
+                    </ul>
+                </li>
+                <li class="my-6">
                   <strong>PT Citra Tubindo Tbk <br>
                     Front End Developer
-                    </strong>(12/2019 ~ Present)
+                    </strong>(12/2019 ~ 12/2020)
                   <ul class="pl-6" style="list-style-type: circle;">
                     <li>Developing Front End the Manafacture Pipe industry by technology.</li>
                     <li>Using Codeigniter on the back-end, Webix written in Javascript on the front-end. Also using PostgreSQL for our database.</li>
@@ -70,8 +79,8 @@ Though what I learn in programming I decide to take informatic engineering at co
                       Software Engineer  </strong>(01/2018 ~ 07/2019)
                   <ul class="pl-6" style="list-style-type: circle;">
                    <li>Developed RESTful API for mobile applications and IOT Devices using NodeJS,Express</li>
-  <li>Develop Project Management System company using Laravel and mysql for our database.</li>
-  <li>Helped creating the profit and loss statement for a new project as an intern in the project planning department.</li>
+                    <li>Develop Project Management System company using Laravel and mysql for our database.</li>
+                    <li>Helped creating the profit and loss statement for a new project as an intern in the project planning department.</li>
                     </ul>
                 </li>
                 <li class="my-6">
@@ -98,10 +107,10 @@ Though what I learn in programming I decide to take informatic engineering at co
               I was raised with education being paramount. I am proud to hold three degrees that have shaped my expertise and form a unique blend of technical, leadership, and communication skills.
               <ul class="text-lg sm:text-xl mx-6">
                 <li class="my-6">
-                  <strong>Bachelor's of Science in Computer Science (Incomplete)</strong> <br /> Major Software Engineering
+                  <strong>Bachelor's of Science in Computer Science </strong> <br /> Major Software Engineering
                 </li>
                  <li class="my-6">
-                  <strong>Assosicated Degree in Informatic Engineering  (Completed)</strong><br />Major Software Engineering
+                  <strong>Assosicated Degree in Informatic Engineering  </strong><br />Major Software Engineering
                 </li>
               </ul>
             </div>

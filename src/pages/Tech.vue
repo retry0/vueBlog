@@ -45,8 +45,8 @@
                 <li class="my-6">
                   <strong>Languange <br></strong>
                   <ul class="pl-6" style="list-style-type: circle;">
-                    <li>PHP</li>
-                    <li>Javscript</li>
+                    <li>PHP (Laravel, Codeigniter)</li>
+                    <li>Javscript(NodeJS, Webix, Express, React Native)</li>
                   </ul>
                 </li>
                 <li class="my-6">
@@ -82,10 +82,10 @@
               I was raised with education being paramount. I am proud to hold three degrees that have shaped my expertise and form a unique blend of technical, leadership, and communication skills.
               <ul class="text-lg sm:text-xl mx-6">
                 <li class="my-6">
-                  <strong>Bachelor's of Science in Computer Science (Incomplete)</strong> <br /> Major Software Engineering
+                  <strong>Bachelor's of Science in Computer Science</strong> <br /> Major Software Engineering
                 </li>
                  <li class="my-6">
-                  <strong>Assosicated Degree in Informatic Engineering  (Completed)</strong><br />Major Software Engineering
+                  <strong>Assosicated Degree in Informatic Engineering</strong><br />Major Software Engineering
                 </li>
               </ul>
             </div>

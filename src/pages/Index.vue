@@ -3,7 +3,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Lingga Adi Pratama</div>
-        <div class="text-green-700 leading-tight">Software Engineer (Backend)</div>
+        <div class="text-green-700 leading-tight">Software Engineer (Mobile Developer)</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
@@ -35,6 +35,10 @@
 
         <ul class="text-lg sm:text-xl">
            <li class="checkmark mb-6">
+            <div>Warung Tepat</div>
+            <div class="text-lg text-gray-600">'Agen Tepat' is an extension of BTPN Syariah in serving its customer transactions in remote areas of the country.</div> 
+          </li>
+           <li class="checkmark mb-6">
             <div>Citra Tubindo Manafacture System</div>
             <div class="text-lg text-gray-600">Develop Some Module Front end using Webix Framework</div> 
           </li>
@@ -65,7 +69,7 @@
         <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
           <div><g-image src="../../static/avatar.jpg" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
           <div class="flex-1 text-lg sm:text-xl ml-6">
-Dedicated Software Engineer Specializing in Web Application Development (Backend) PHP (Laravel,Codeigniter,YII2) / Javascript (NODEJS)
+Dedicated Software Engineer Specializing in Web Application Development (Backend) PHP (Laravel,Codeigniter,YII2) / Javascript (NODEJS, React Native)
 </div>
         </div>
       </div> <!-- end get-to-know me -->
